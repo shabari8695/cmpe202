@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=GumballMachineTwo
+comment0.text=\n\ Write\ a\ description\ of\ class\ GumballMachineTwo\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=size\ amount
+comment1.target=GumballMachineTwo(int,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ GumballMachineTwo\n
+comment2.params=coin
+comment2.target=void\ insertCoin(int)
+comment3.params=
+comment3.target=void\ turnCrank()
+numComments=4
