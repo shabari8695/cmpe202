@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.target=GumballMachineOne
-comment0.text=\n\ Write\ a\ description\ of\ class\ GumballMachineOne\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
-comment1.params=size\ amount
-comment1.target=GumballMachineOne(int,\ int)
-comment2.params=coin
-comment2.target=void\ insertCoin(int)
-numComments=3
