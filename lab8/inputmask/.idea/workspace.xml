@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ebd842a-4da6-4adc-9b56-221a09445b5f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../gumball/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-c-ver1/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-c-ver1/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-c-ver2/gumball.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-c-ver2/gumball.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-c-ver2/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-c-ver3/gumball-v3-question.asta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-c-ver3/gumball-v3-solution.asta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-c-ver3/gumball.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-c-ver3/gumball.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-c-ver3/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/artwork/GM Machine.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/artwork/alien.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/artwork/blue-gumball.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/artwork/fake-quarter.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/artwork/green-bumball.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/artwork/gumballs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/artwork/penny.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/artwork/quarter.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/artwork/red-gumball.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/artwork/red-white-blue-gumballs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/artwork/toy-story-aliensjpg-e3c3805bb7fe4c91.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/greenfoot/Alien.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/greenfoot/Alien.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/greenfoot/BlueGumball.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/greenfoot/BlueGumball.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/greenfoot/Coin.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/greenfoot/Coin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/greenfoot/FakeQuarter.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/greenfoot/FakeQuarter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/greenfoot/GreenGumball.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/greenfoot/GreenGumball.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/greenfoot/GreenPicker.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/greenfoot/GreenPicker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/greenfoot/Gumball.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/greenfoot/Gumball.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/greenfoot/GumballMachine.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/greenfoot/GumballMachine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/greenfoot/GumballWorld.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/greenfoot/GumballWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/greenfoot/Inspector.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/greenfoot/Inspector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/greenfoot/Penny.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/greenfoot/Penny.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/greenfoot/Picker.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/greenfoot/Picker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/greenfoot/Quarter.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/greenfoot/Quarter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/greenfoot/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/greenfoot/RandomPicker.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/greenfoot/RandomPicker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/greenfoot/RedGumball.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/greenfoot/RedGumball.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/greenfoot/images/GM Machine.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/greenfoot/images/alien.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/greenfoot/images/apple1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/greenfoot/images/blue-gumball.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/greenfoot/images/fake-quarter.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/greenfoot/images/green-bumball.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/greenfoot/images/penny.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/greenfoot/images/quarter.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-greenfoot/greenfoot/images/red-gumball.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-groovy/CoinAcceptedState.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-groovy/CoinRejectedState.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-groovy/GumballMachine.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-groovy/GumballMachineTest.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-groovy/GumballStateMachine.asta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-groovy/HasCoinState.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-groovy/IGumballState.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-groovy/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-groovy/NoCoinState.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-groovy/hamcrest-core-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-groovy/junit-4.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-java-pattern/GumballMachine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-java-pattern/HasQuarterState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-java-pattern/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-java-pattern/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-java-pattern/NoQuarterState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-java-pattern/SoldOutState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-java-pattern/SoldState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-java-pattern/State.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-java-pattern/gumball.asta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-java-pattern/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-java-typical/GumballMachine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-java-typical/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-java-typical/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-java-typical/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-junit-lab/ver1/GumballMachine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-junit-lab/ver1/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-junit-lab/ver1/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-junit-lab/ver2/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-junit-lab/ver2/diagrams.asta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-junit-lab/ver2/gumball/GumballMachine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-junit-lab/ver2/gumball/GumballStub.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-junit-lab/ver2/gumball/IGumball.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-junit-lab/ver2/gumball/Kid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-junit-lab/ver2/gumball/KidTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-junit-lab/ver2/gumball/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-junit-lab/ver2/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-junit-lab/ver3/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-junit-lab/ver3/diagrams.asta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-junit-lab/ver3/gumball/GumballException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-junit-lab/ver3/gumball/GumballMachine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-junit-lab/ver3/gumball/GumballStub.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-junit-lab/ver3/gumball/HasQuarterException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-junit-lab/ver3/gumball/IGumball.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-junit-lab/ver3/gumball/Kid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-junit-lab/ver3/gumball/NoQuarterException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-junit-lab/ver3/gumball/UnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-junit-lab/ver3/gumball/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-junit-lab/ver3/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-junit-lab/ver4/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-junit-lab/ver4/diagrams.asta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-junit-lab/ver4/gumball/GumballException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-junit-lab/ver4/gumball/GumballMachine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-junit-lab/ver4/gumball/GumballStub.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-junit-lab/ver4/gumball/HasQuarterException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-junit-lab/ver4/gumball/IGumball.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-junit-lab/ver4/gumball/Kid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-junit-lab/ver4/gumball/NoQuarterException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-junit-lab/ver4/gumball/UnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-junit-lab/ver4/gumball/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-junit-lab/ver4/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-processing/gumball1_sketch/GumballMachine.pde" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-processing/gumball1_sketch/State.pde" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-processing/gumball1_sketch/data/BookAntiqua-48.vlw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-processing/gumball1_sketch/data/gumball.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gumball/gumball-processing/gumball1_sketch/gumball1_sketch.pde" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/gumball-java-pattern/gumball.asta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/gumball-java-pattern/source-code/GumballMachine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/gumball-java-pattern/source-code/HasQuarterState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/gumball-java-pattern/source-code/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/gumball-java-pattern/source-code/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/gumball-java-pattern/source-code/NoQuarterState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/gumball-java-pattern/source-code/SoldOutState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/gumball-java-pattern/source-code/SoldState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/gumball-java-pattern/source-code/State.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/gumball-java-pattern/source-code/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/gumball-java-typical/source-code/GumballMachine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/gumball-java-typical/source-code/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/gumball-java-typical/source-code/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/gumball-java-typical/source-code/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab2/counter-burger/source-code/BuildOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab2/counter-burger/source-code/Burger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab2/counter-burger/source-code/Cheese.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab2/counter-burger/source-code/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab2/counter-burger/source-code/Component.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab2/counter-burger/source-code/Composite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab2/counter-burger/source-code/CustomBurger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab2/counter-burger/source-code/Leaf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab2/counter-burger/source-code/LeafDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab2/counter-burger/source-code/Premium.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab2/counter-burger/source-code/PriceDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab2/counter-burger/source-code/Sauce.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab2/counter-burger/source-code/Toppings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab2/counter-burger/source-code/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/observer/ConcreteSubject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/observer/Observer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/observer/Pessimist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/observer/Subject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/observer/TheEconomy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../starbucks/java/ver3.0/bluej/package.bluej" beforeDir="false" afterPath="$PROJECT_DIR$/../../../starbucks/java/ver3.0/bluej/package.bluej" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-492964904">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gradle" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Groovy" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-658">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="inputmask" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="inputmask" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="1540087402000" />
+        <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="4294207934" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../cmpe202-shabari8695/starbucks" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../lab_work/cmpe202/lab8/inputmask" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="813" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ebd842a-4da6-4adc-9b56-221a09445b5f" name="Default Changelist" comment="" />
+      <created>1540088779807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540088779807</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="813" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Build" visible="true" weight="0.32871014" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="sbt" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-658">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
