@@ -39,8 +39,18 @@ public class App {
     }
 
     public void key(String ch) {
-        count++;
-        screen.key(ch, count);
+
+            if(ch.length() == 1) {
+                if (ch.equals("x") && count > 0) {
+                    count--;
+                    System.err.println(count);
+                    screen.key(ch, count + 1);
+                } else if (!ch.equals("x") && count < 23) {
+                    count++;
+                    System.err.println(count);
+                    screen.key(ch, count);
+                }
+            }
     }
 
 }
